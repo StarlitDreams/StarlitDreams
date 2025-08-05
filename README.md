@@ -1,5 +1,4 @@
 
-<h3> Snakey Snakey~! <h3>
 
 <h1 align="center">Hi 💖, I'm  &lt;3 </h1>
 
